@@ -1,0 +1,6 @@
+cd /home/project/final_project
+python3
+>>> from emotion_detection import emotion_detector
+>>> emotion_detector("I love this new technology.")
+'{"emotionPredictions":[{"emotion":{"anger":0.006274985,"disgust":0.0092515575,"fear":0.0022140158,"joy":0.96925688,"sadness":0.013002617},"target":"","emotionMentionId":"0","emotionMentionText":"love","emotionMentionType":"noun","emotionMentionScore":0.97087306,"nounMentionText":"technology","nounMentionScore":0.88970006,"beginOffsets":"14-18","endOffsets":"22-32"}]}'
+>>> exit()
