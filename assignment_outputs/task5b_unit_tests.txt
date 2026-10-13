@@ -1,0 +1,7 @@
+test_emotion_analyzer (test_emotion_detection.TestEmotionAnalyzer.test_emotion_analyzer)
+Validate dominant emotion for sample statements. ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 20.054s
+
+OK

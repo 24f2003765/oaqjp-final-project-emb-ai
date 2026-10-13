@@ -1,0 +1,9 @@
+python3 -m pip install -e .
+  Attempting uninstall: EmotionDetection
+    Found existing installation: EmotionDetection 1.0.0
+    Uninstalling EmotionDetection-1.0.0:
+      Successfully uninstalled EmotionDetection-1.0.0
+Successfully installed EmotionDetection-1.0.0
+
+python3 -c "import EmotionDetection; print(EmotionDetection.__name__)"
+EmotionDetection
